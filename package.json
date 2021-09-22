@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "avalanche": "^3.8.6",
+    "avalanche": "^3.9.0",
     "dotenv": "^8.2.0",
     "ethereumjs-util": "^7.1.0"
   }
